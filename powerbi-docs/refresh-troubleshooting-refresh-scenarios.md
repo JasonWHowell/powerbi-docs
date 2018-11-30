@@ -2,15 +2,11 @@
 title: Troubleshooting refresh scenarios
 description: Troubleshooting refresh scenarios
 author: davidiseminger
-manager: kfile
-ms.reviewer: ''
-
+ms.author: davidi
 ms.service: powerbi
 ms.component: powerbi-service
 ms.topic: conceptual
 ms.date: 11/28/2018
-ms.author: davidi
-
 LocalizationGroup: Data refresh
 ---
 # Troubleshooting refresh scenarios
